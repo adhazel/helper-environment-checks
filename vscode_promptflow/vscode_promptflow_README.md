@@ -106,7 +106,7 @@ This informal guide will help you setup and test the Prompt Flow SDK using Visua
 1. In the **Terminal** window, you should have a cmd terminal that is showing the `(.venv)` prefix. Within this terminal, type `pip install -r ./vscode_promptflow/llmops_requirements.txt` and press **Enter**.
     - This may take several minutes. It is finished when a new line appears prefixed with `(.venv)`.
 
-[[Back to top](#vscode_git-setup-and-test-steps)]
+[[Back to top](#vscode_promptflow-setup-and-test-steps)]
 
 
 
